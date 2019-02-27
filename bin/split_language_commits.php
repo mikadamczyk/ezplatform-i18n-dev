@@ -75,6 +75,7 @@ function getLanguagesData()
         'nb' => 'nb_NO',
         'pl' => 'pl_PL',
         'pt-PT' => 'pt_PT',
+        'no' => 'no_NO',
         'ru' => 'ru_RU',
         'en-US' => 'en_US',
         'it' => 'it_IT',
@@ -88,7 +89,7 @@ function getLanguagesData()
     }
     $statuses = json_decode(
         file_get_contents(
-            "https://api.crowdin.com/api/project/ezplatform/status?key=$crowdinApiKey&json"
+            "https://api.crowdin.com/api/project/ezplatform-dev/status?key=$crowdinApiKey&json"
         )
     );
     if ($statuses instanceof stdClass) {

@@ -1,5 +1,4 @@
 project_identifier: "ezplatform-dev"
-preserve_hierarchy: true
 
 files: [
     {
@@ -28,7 +27,9 @@ files: [
             }
         },
         ignore: [
-          "/translations"
+          "/translations",
+          "/bin"
+          "/docs"
         ]
     }
 ]
