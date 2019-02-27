@@ -1,10 +1,9 @@
 project_identifier: "ezplatform-dev"
-preserve_hierarchy: true
 
 files: [
     {
         source: "/**/*.xlf",
-        translation: "/translations/%locale_with_underscore%/**/%file_name%.%locale%.%file_extension%",
+        translation: "/translations/%locale_with_underscore%/**/%file_name%.%locale_with_underscore%.%file_extension%",
         languages_mapping: {
             "locale": {
                 "en-US": "en_US",
@@ -28,7 +27,9 @@ files: [
             }
         },
         ignore: [
-          "/translations"
+          "/translations",
+          "/bin",
+          "/docs"
         ]
     }
 ]
