@@ -6,9 +6,9 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="f7f914561d720817076c4caa6497d8a61f765fa8" resname="block.collection.select.content">
+      <trans-unit id="f7f914561d720817076c4caa6497d8a61f765fa8" resname="block.collection.select.content" approved="yes">
         <source>Select Content</source>
-        <target xml:lang="pl" state="needs-translation">Select Content</target>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
         <note>key: block.collection.select.content</note>
       </trans-unit>
       <trans-unit id="97c4cb68717b724a45deff1be7748a2db95b44e8" resname="block.schedule.btn.select_content">
@@ -46,9 +46,9 @@
         <target xml:lang="pl" state="needs-translation">Select content item(s)</target>
         <note>key: block.schedule.select_content.label</note>
       </trans-unit>
-      <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class">
+      <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class" approved="yes">
         <source>Class</source>
-        <target xml:lang="pl" state="needs-translation">Class</target>
+        <target xml:lang="pl" state="translated">Klasa</target>
         <note>key: page_builder.block_configuration.class</note>
       </trans-unit>
       <trans-unit id="1b017f2717748a39edad826a06b7da4e7bc34b55" resname="page_builder.block_configuration.hide">
@@ -56,9 +56,9 @@
         <target xml:lang="pl" state="needs-translation">Hide</target>
         <note>key: page_builder.block_configuration.hide</note>
       </trans-unit>
-      <trans-unit id="f25907170d46ba21aa3ab7e5a401a1c38d340168" resname="page_builder.block_configuration.name">
+      <trans-unit id="f25907170d46ba21aa3ab7e5a401a1c38d340168" resname="page_builder.block_configuration.name" approved="yes">
         <source>Name</source>
-        <target xml:lang="pl" state="needs-translation">Name</target>
+        <target xml:lang="pl" state="translated">Nazwa</target>
         <note>key: page_builder.block_configuration.name</note>
       </trans-unit>
       <trans-unit id="39c1b98e28909afc6445800e0a0494709f3f6d91" resname="page_builder.block_configuration.reveal">
@@ -66,19 +66,19 @@
         <target xml:lang="pl" state="needs-translation">Reveal</target>
         <note>key: page_builder.block_configuration.reveal</note>
       </trans-unit>
-      <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
+      <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style" approved="yes">
         <source>Style</source>
-        <target xml:lang="pl" state="needs-translation">Style</target>
+        <target xml:lang="pl" state="translated">Styl</target>
         <note>key: page_builder.block_configuration.style</note>
       </trans-unit>
-      <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view">
+      <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view" approved="yes">
         <source>View</source>
-        <target xml:lang="pl" state="needs-translation">View</target>
+        <target xml:lang="pl" state="translated">Widok</target>
         <note>key: page_builder.block_configuration.view</note>
       </trans-unit>
-      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
+      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content" approved="yes">
         <source>Select content</source>
-        <target xml:lang="pl" state="needs-translation">Select content</target>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
         <note>key: select.content</note>
       </trans-unit>
       <trans-unit id="736317ee24b04dca3922094f41fcec739ad7b83a" resname="tab.scheduler.schedule_visibility">
