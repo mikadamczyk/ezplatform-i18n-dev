@@ -2,14 +2,14 @@ project_identifier: ezplatform-dev
 files:
   - source: /**/*.xlf
     translation: >-
-      /translations/%locale_with_underscore%/**/%file_name%.%locale_with_underscore%.%file_extension%
+      /translations/%locale_with_underscore%/**/%file_name%.%locale%.%file_extension%
     languages_mapping:
       locale:
         en-US: en_US
         pl: pl
         de: de
         el: el
-        es: es
+        es-ES: es
         fi: fi
         fr: fr
         hi: hi
@@ -18,7 +18,6 @@ files:
         it: it
         ja: ja
         nb: nb
-        no: no
         nl: nl
         pt-PT: pt
         ru: ru
